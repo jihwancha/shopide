@@ -1,0 +1,12 @@
+shopide\AbstractEvent$1.class
+shopide\Order.class
+shopide\OrderCanceled.class
+shopide\external\CancellationService.class
+shopide\Application.class
+shopide\external\Cancellation.class
+shopide\PolicyHandler.class
+shopide\OrderRepository.class
+shopide\OrderController.class
+shopide\AbstractEvent.class
+shopide\config\kafka\KafkaProcessor.class
+shopide\Ordered.class
